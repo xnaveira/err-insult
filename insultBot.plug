@@ -1,0 +1,6 @@
+[Core]
+Name = InsultBot
+Module = insultBot
+
+[Documentation]
+Description = I'll insult anybody for you 
